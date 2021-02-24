@@ -3,9 +3,9 @@ Input: nums = [2,2,1]
 Output: 1
 */
 
-// const nums = [4,1,2,1,2];
+ const nums = [4,1,2,1,2];
 
-// nums.sort((a, b) => b - a);
+ nums.sort((a, b) => b - a);
 
 // console.log(nums);
 //array.sort((a, b) => b - a);
